@@ -11,26 +11,28 @@ Este repositório contém o desenvolvimento do meu novo portfólio pessoal. O ob
 - **JavaScript**: Interatividade e funcionalidades dinâmicas.
 
 ## Estrutura do Projeto
-
 ### 1. Home
 A página inicial serve como a porta de entrada para o portfólio. Ela fornece uma visão geral de quem eu sou e destaca as principais seções do site. O design é pensado para ser atraente e facilitar a navegação para outras partes do portfólio.
 
 ### 2. About
 Nesta seção, você encontrará uma descrição mais detalhada sobre mim. Inclui informações sobre minha formação, interesses e valores. É uma oportunidade para apresentar uma visão mais pessoal e contextualizar minhas habilidades e experiências.
 
-### 3. Contact
+### 3. Services
+A seção de serviços apresenta as principais habilidades e soluções que ofereço. É voltada para destacar os serviços que posso realizar, como desenvolvimento de sites, design gráfico, consultoria, entre outros. Cada serviço é detalhado com exemplos práticos e resultados obtidos.
+
+### 4. Portfolio
+Aqui, apresento os projetos em que trabalhei, com exemplos detalhados e ilustrações. Esta seção visa mostrar a qualidade do meu trabalho, dividida por categorias como desenvolvimento, design e consultoria, destacando projetos relevantes e suas descrições.
+
+### 5. Contact
 A seção de contato oferece diferentes formas de se conectar comigo. Inclui informações de contato como e-mail e links para redes sociais. Também haverá um formulário de contato para facilitar o envio de mensagens diretamente pelo site.
 
-### 4. Experience
-Aqui, detalho minhas experiências profissionais e educacionais. Esta seção será organizada para mostrar claramente minha trajetória, incluindo cargos ocupados, instituições e períodos de atuação. O objetivo é destacar minhas principais conquistas e aprendizados.
-
-### 5. Dark Mode
+### 6. Dark Mode
 O portfólio inclui uma funcionalidade de dark mode, permitindo aos usuários alternar entre o tema claro e o escuro. Esta opção visa melhorar a experiência de navegação em diferentes condições de iluminação e atender às preferências individuais dos usuários.
 
-### 6. Responsive Design
+### 7. Responsive Design
 O design do portfólio é responsivo, garantindo que o site seja acessível e visualmente atraente em uma variedade de dispositivos, incluindo desktops, tablets e smartphones. O layout ajusta-se automaticamente para oferecer a melhor experiência de usuário possível.
 
-## Versões
+# Versões
 
 O portfólio estará disponível em dois idiomas:
 
