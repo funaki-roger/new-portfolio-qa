@@ -814,3 +814,15 @@ h3.my-profession
     height: 40px;
     padding: 0 50px;
 }
+
+@media (max-width: 1199px)
+{
+    .aside
+    {
+        left: -270px;
+    }
+    .main-content
+    {
+        padding-left: 0;
+    }
+}
